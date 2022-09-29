@@ -1,0 +1,19 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress"
+  ],
+  "author": "nikola radisavljevic",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}

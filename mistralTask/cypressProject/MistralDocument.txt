@@ -1,0 +1,21 @@
+Hello,
+
+I used Cypress to automate the web application
+I am sending you a short instruction for setting up the test environment and running the tests.
+When opening a folder in one of the code editors, it is necessary to perform an -npm install- in terminal to install all the packages
+After that we use commmand - npx cypress open - to open Cypress GUI to run the tests
+
+There are two groups of tests:
+- Registration tests
+- Tests for purchase
+
+Clicking on any of the tests automatically starts the script
+
+Test plan for UI testing:
+The plan contains several test cases as an example of how the whole plan would look like
+
+https://docs.google.com/spreadsheets/d/1LFx6R3dWGDgibH0i4lngTz-XuIb9e-XzXa2xJvn5ifs/edit#gid=0
+
+This is a test plan for API Testing:
+
+https://docs.google.com/spreadsheets/d/1nYp7cfK9CHgz3oUXndk8u38VeDpqOfaNvAi1oumHWk4/edit#gid=235695859
